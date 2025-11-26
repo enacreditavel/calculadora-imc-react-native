@@ -14,14 +14,14 @@ Este projeto é um aplicativo móvel desenvolvido para a competência PROGRAMAR 
 1. Certifique-se de ter o Node.js instalado.
 2. Instale as dependências:
    `bash
-    npm install
-    `
-   . Inicie o projeto
+ npm install
+ `
+3. Inicie o projeto
    `bash
-    npx expo start -c
-    `
+npx expo start -c
+`
 
-3. Utilize o aplicativo Expo Go no seu celular (Android/iOS) para escanear o QR Code, ou pressione `w` para abrir no navegador, ou `a` para emulador Android.
+4. Utilize o aplicativo Expo Go no seu celular (Android/iOS) para escanear o QR Code, ou pressione `w` para abrir no navegador, ou `a` para emulador Android.
 
 ## 📱 Tecnologias
 
