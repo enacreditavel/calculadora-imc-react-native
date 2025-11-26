@@ -3,7 +3,7 @@
 # dependencies
 node_modules/
 
-components/ui/
+components/
 
 # Expo
 .expo/

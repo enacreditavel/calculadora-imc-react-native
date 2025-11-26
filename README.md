@@ -16,23 +16,18 @@ Este projeto é um aplicativo móvel desenvolvido para a competência PROGRAMAR 
    `bash
     npm install
     `
-3. Adicione os componentes do Gluestack-UI
-   `bash
-    npx gluestack add --all
-    `
-4. Inicie o projeto
+   . Inicie o projeto
    `bash
     npx expo start -c
     `
 
-5. Utilize o aplicativo Expo Go no seu celular (Android/iOS) para escanear o QR Code, ou pressione `w` para abrir no navegador, ou `a` para emulador Android.
+3. Utilize o aplicativo Expo Go no seu celular (Android/iOS) para escanear o QR Code, ou pressione `w` para abrir no navegador, ou `a` para emulador Android.
 
 ## 📱 Tecnologias
 
 - React Native
 - Expo
 - Fetch API
-- Gluestack-UI
 
 ## 👥 Integrantes do Grupo
 
